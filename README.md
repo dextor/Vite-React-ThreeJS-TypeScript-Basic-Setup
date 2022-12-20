@@ -1,4 +1,7 @@
-# Getting Started with Create Vite
+# Vite + React + ThreeJS + TypeScript
+This is a basic setup for building 3d apps with custom shaders.  It does not use React Three Fiber.
+
+## Getting Started with Create Vite
 
 This project was bootstrapped with [Create Vite](https://vitejs.dev/guide/).
 
